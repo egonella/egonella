@@ -71,7 +71,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/egonella/egonella/output/snake.svg" alt="Snake animation" />
-
-###
