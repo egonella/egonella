@@ -12,11 +12,16 @@
 
 ###
 
-<h4 align="left">I'm from Uruguay<br><br>-<br>-<br>-</h4>
+<h4 align="left">I'm from Uruguay<br>
+
+<br>-A tireless student with a passion for the world of technology, always willing to continue developing through new technologies.<br>
+<br>-I look for opportunities to continue learning as a programmer, collaborating on projects of all kinds.<br>
+
+</h4>
 
 ###
 
-<h2 align="left">Languges and tools</h2>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
