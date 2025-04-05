@@ -12,9 +12,9 @@
 
 ###
 
-<h4 align="left">I'm from Uruguay<br>
+<h4 align="left">
 
-<br>-A tireless student with a passion for the world of technology, always willing to continue developing through new technologies.<br>
+-A tireless student with a passion for the world of technology, always willing to continue developing through the newest in the IT world.<br>
 <br>-I look for opportunities to continue learning as a programmer, collaborating on projects of all kinds.<br>
 
 </h4>
@@ -26,19 +26,21 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="25" alt="vite logo"  />
+  <img width="8" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="25" alt="react logo"  />
   <img width="8" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="25" alt="vite logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/javascript/323330" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="25" alt="sass logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="25" alt="vuejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="25" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="25" alt="nodejs logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="25" alt="docker logo"  />
   <img width="8" />
@@ -55,8 +57,6 @@
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="25" alt="nestjs logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="25" alt="github logo"  />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="25" alt="postman logo"  />
   <img width="8" />
