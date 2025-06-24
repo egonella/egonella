@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Emiliano+Gonella+👋🏼;Full+Stack+Developer;Always+learning+new+technologies;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=egonella&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/egonella?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
 ###
 
 <div align="center">
@@ -102,30 +97,7 @@ const emiliano = {
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egonella&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egonella&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=egonella&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=egonella&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=egonella&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 **Contribution Graph**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=egonella&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </div>
 
 ---
@@ -141,10 +113,6 @@ const emiliano = {
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
 
 <div align="center">
   <b>✨ Thanks for visiting my profile! Let's build something amazing together! ✨</b>
